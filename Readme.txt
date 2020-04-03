@@ -1,5 +1,7 @@
-Thanks for downloading this template!
+This is a work in progress. I am investing time weekly in building this up. 
 
+
+---------------------------------------------------------------------------
 Template Name: Folio
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
 Author: BootstrapMade.com
